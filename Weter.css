@@ -1,0 +1,423 @@
+body{
+    margin: 0;
+    padding: 0px;
+
+
+    @media screen and (max-width: 2000px) {
+        background-color: rgba(129, 129, 128, 0.815);
+    }
+
+
+
+
+@media screen and (max-width: 800px) {
+    background-image: url(Foto/image.png);
+    border: 4px solid rgba(34, 30, 30, 0.692);
+    
+    
+
+    h1{
+        background-color: rgb(204, 20, 20);
+        text-align: center ;
+        font-size: 26px;
+        display: inline-block;
+        width: 115%;
+        margin-top: -5px;
+        
+    }
+
+
+    .Table{
+        width: 450px;
+        height: 400;       
+        font-size: 0.9em;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        overflow: hidden;      
+
+       }
+     .Table tr{
+        background-color: rgba(122, 187, 173, 0.527);
+        
+     }
+
+     .Foto{
+        width: 450px;   
+        opacity: .5;
+        float: left; /* Выравнивание картинки влево */
+        margin-right: 10px;
+        border-radius: 50%;
+        border: 2px solid #000
+     }
+   
+    h2{
+        color: rgba(193, 223, 125, 0.781);
+     }
+   
+    p{
+        color: rgba(154, 211, 23, 0.815);
+        font-size: 35px;
+     }
+
+    p :hover{
+        color: rgba(235, 182, 119, 0.815);
+        transition: all 0.3s ease;
+     }
+    
+     #Bogdan{
+        height: 450px;
+    }
+    button{
+        border-radius: 20px;
+        background-image: url(Foto/image.png);
+        
+    }
+    
+
+}
+
+
+@media screen and (max-width: 450px) {
+  
+    background-image: url(Foto/image.png);
+    border: 4px solid rgba(34, 30, 30, 0.692);
+    
+    #Play{
+        width: 270px;
+        height: 30px;
+        
+        border-radius: 10%;
+    }
+
+    
+   .Table{
+    width: 350px;
+    height: 400;         
+    font-size: 0.9em;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    display: inline-block;
+        width: 100%;
+   }
+
+   .Table tr{
+    background-color: rgba(255, 228, 196, 0.527);
+    
+    
+
+
+ }
+ 
+
+    h1{
+    background-color: aqua;
+    text-wrap: balance;
+        max-inline-size: 100ch;
+        text-align: center;
+        margin: 0 auto;        
+        display: inline-block;
+        width: 100%;
+    }
+
+    h2{
+        color: rgba(42, 161, 165, 0.781);
+    }
+
+    .Foto{
+        width: 250px;   
+        opacity: .5;
+        float: left; /* Выравнивание картинки влево */
+        margin-right: 10px;
+        border-radius: 50%;
+        border: 2px solid #000
+    }
+
+    p{
+        color: green;
+        font-size: 15px;
+    }
+
+    p :hover{
+        color: bisque;
+        transition: all 0.3s ease;
+    }
+
+
+    #Bogdan{
+        height: 200px;
+    }
+
+    button{
+        border-radius: 20px;
+        background-image: url(Foto/image.png);
+        
+    }
+}
+
+
+@media screen and (max-width: 200px) {
+
+background-image: url(Foto/image.png);
+border: 4px solid rgba(34, 30, 30, 0.692);
+
+#Play{
+    width: 170px;
+    height: 20px;
+    
+    border-radius: 10%;
+}
+
+h1{
+    background-color: rgba(255, 0, 212, 0.603);
+        text-wrap: balance;
+        max-inline-size: 100ch;
+        text-align: center;
+        margin: 0 auto;
+        display: inline-block;
+        width: 100%
+                      
+    }
+
+    .Table tr{
+        background-color: rgba(255, 228, 196, 0.527);
+        
+     }
+    
+     .Foto{
+        width: 150px;   
+        opacity: .5;
+    }
+
+
+    h2{
+        color: rgba(39, 121, 228, 0.781);
+        font-size: 20px;
+    }
+
+    .Foto{
+        width: 250px;   
+        opacity: .5;
+    }
+
+    p{
+        color: rgba(154, 211, 23, 0.815);
+        font-size: 10px;
+    }
+
+    p :hover{
+        color: bisque;
+        transition: all 0.3s ease;
+    }
+    #Bogdan{
+        height: 250px;
+        
+    }
+    button{
+        border-radius: 20px;
+        background-image: url(Foto/image.png);
+        
+    }
+}
+   
+.Second_back_Foto{
+    
+
+
+
+
+@media screen and (max-width: 800px) {
+    background-image: url(Foto/image1.1.png);
+    border: 4px solid rgba(34, 30, 30, 0.692);
+    
+    h1{
+        background-color: rgba(224, 203, 107, 0.795);
+        text-align: center ;
+        font-size: 26px;
+        display: inline-block;
+        width: 115%;
+        margin-top: -5px;
+        
+    }
+
+
+    .Table{
+        width: 450px;
+        height: 400;       
+        font-size: 0.9em;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        overflow: hidden;      
+
+       }
+     .Table tr{
+        background-color: rgba(85, 126, 214, 0.527);
+        
+     }
+
+     .Foto{
+        width: 450px;   
+        opacity: .5;
+        float: left; /* Выравнивание картинки влево */
+        margin-right: 10px;
+        border-radius: 50%;
+        border: 2px solid #000
+     }
+   
+    h2{
+        color: rgba(162, 204, 65, 0.705);
+     }
+   
+    p{
+        color: rgba(179, 196, 140, 0.74);
+        font-size: 35px;
+     }
+
+    p :hover{
+        color: rgba(235, 182, 119, 0.815);
+        transition: all 0.3s ease;
+     }
+    
+     button{
+        border-radius: 20px;
+        background-image: url(Foto/image.png);
+        
+    }
+}
+
+
+@media screen and (max-width: 450px) {
+  
+    background-image: url(Foto/image1.1.png);
+    border: 4px solid rgba(34, 30, 30, 0.692);
+    
+   
+
+
+   .Table{
+    width: 350px;
+    height: 400;         
+    font-size: 0.9em;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    display: inline-block;
+        width: 100%;
+   }
+
+   .Table tr{
+    background-color: rgba(255, 228, 196, 0.527);
+    
+
+
+ }
+ 
+
+    h1{
+    background-color: rgba(230, 131, 39, 0.733);
+    text-wrap: balance;
+        max-inline-size: 100ch;
+        text-align: center;
+        margin: 0 auto;        
+        display: inline-block;
+        width: 100%;
+    }
+
+    h2{
+        color: rgba(54, 42, 165, 0.781);
+    }
+
+    .Foto{
+        width: 250px;   
+        opacity: .5;
+        float: left; /* Выравнивание картинки влево */
+        margin-right: 10px;
+        border-radius: 50%;
+        border: 2px solid #000
+    }
+
+    p{
+        color: rgba(108, 31, 124, 0.774);
+        font-size: 15px;
+    }
+
+    p :hover{
+        color: rgb(48, 99, 119);
+        transition: all 0.3s ease;
+    }
+
+
+   
+    button{
+        border-radius: 20px;
+        background-image: url(Foto/image.png);
+        
+    }
+
+   
+
+
+}
+
+
+@media screen and (max-width: 200px) {
+
+    background-image: url(Foto/image1.1.png);
+    border: 4px solid rgba(34, 30, 30, 0.692);
+
+h1{
+    background-color: rgba(255, 0, 212, 0.603);
+        text-wrap: balance;
+        max-inline-size: 100ch;
+        text-align: center;
+        margin: 0 auto;
+        display: inline-block;
+        width: 100%
+                      
+    }
+
+    .Table tr{
+        background-color: rgba(255, 228, 196, 0.527);
+        
+     }
+    
+     .Foto{
+        width: 150px;   
+        opacity: .5;
+    }
+
+
+    h2{
+        color: rgba(39, 121, 228, 0.781);
+        font-size: 20px;
+    }
+
+    .Foto{
+        width: 250px;   
+        opacity: .5;
+    }
+
+    p{
+        color: rgba(178, 44, 196, 0.815);
+        font-size: 10px;
+    }
+
+    p :hover{
+        color: rgba(77, 73, 69, 0.856);
+        transition: all 0.3s ease;
+    }
+    
+    button{
+        border-radius: 20px;
+        background-image: url(Foto/image.png);
+        
+    }
+}
+
+}
+
+}

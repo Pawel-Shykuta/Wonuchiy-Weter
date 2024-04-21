@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(0, 0, 0);
+
+    #audio{
+        width: 270px;
+        height: 30px;
+        color: bisque;
+    }
+    h1{
+        color: aliceblue;
+    }
+
+}
